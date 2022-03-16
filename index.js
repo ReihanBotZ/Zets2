@@ -65,10 +65,10 @@ const tebakjenaka = JSON.parse(fs.readFileSync('./lib/tebakjenaka.json'))
 
 banChats = true
 offline = false
-targetpc = '6282293271747'
-owner = '6282293271747' //6285751056816
-fake = '*Created By KontoloOfficial*'
-botname = 'GtuBot'
+targetpc = '6281379159390'
+owner = '6285368159958' //6281379159390
+fake = '*© Created By YesarGanZ✓*'
+botname = 'ReihanBotZ'
 simbol = '>'
 numbernye = '0'
 waktu = '-'
@@ -195,15 +195,15 @@ var tampilHari = "" + tampilUcapans;
 
         //MESS
 		mess = {
-			wait: 'Otewe',
-			success: 'Berhasil!',
-			wrongFormat: 'Format salah, coba liat lagi di menu',
+			wait: '⏳ Sabar Lagi loading...',
+			success: 'Berhasil❗',
+			wrongFormat: 'Format salah, Silakan cek menu yang tersedia❗',
 			error: {
 				stick: 'bukan sticker itu:v',
-				Iv: 'Linknya error:v'
+				Iv: 'Linknya error, silakan coba lagi❗'
 			},
 			only: {
-				group: 'Khusus grup ngab',
+				group: 'Hanya Tersedia Di Grup❗',
 			}
 		}
 		const isUrl = (url) => {
